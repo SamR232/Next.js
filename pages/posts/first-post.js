@@ -16,9 +16,6 @@ const FirstPost = () => {
           console.log(`script loaded correctly, window.FB has been populated`)
         }></Script>
       <h1>First Post</h1>
-      <h2>
-        <Link href='/'>Back to home</Link>
-      </h2>
     </Layout>
   );
 };
